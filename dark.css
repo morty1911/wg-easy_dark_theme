@@ -1,0 +1,45 @@
+/* wg-easy dark theme by morty1911 */
+
+body {
+    background-color: #131313 !important;
+}
+.shadow-md {
+    background-color: #202020;
+}
+span.align-middle {
+    color: #fff;
+}
+.z-0 {
+    z-index: 0;
+    opacity: 0.3;
+}
+.border-gray-100 {
+    --tw-border-opacity: 1;
+    border-color: #3c3c3c;
+}
+.text-2xl {
+    font-size: 1.5rem;
+    line-height: 2rem;
+    color: #fff;
+}
+.shadow-md div.border:first-child {
+    border-bottom: #3c3c3c solid 1px;
+    border-top: 0;
+    border-left: 0;
+    border-right: 0;
+}
+.text-gray-700 {
+    color: #e1e1e1;
+}
+.bg-gray-100 {
+    background-color: #313131;
+}
+.bg-gray-50 {
+    background-color: #313131;
+}
+.bg-red-100 {
+    background-color: #3f8144;
+}
+.bg-red-800 {
+    background-color: #3f8144;
+}
